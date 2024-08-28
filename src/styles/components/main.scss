@@ -67,7 +67,7 @@ button {
 }
 
 button:hover {
-    background-color: variables.$buttonColor;
+    background-color: variables.$buttonColorHover;
 }
 
 @media (max-width: 640px) {
